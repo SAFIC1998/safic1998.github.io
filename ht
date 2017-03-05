@@ -1,0 +1,431 @@
+
+<html>
+<head></head>
+<body><h1 style="color:green;">Top 
+
+Universities of Nepal</h1>
+<ol style="color:red;">
+<li>Tribhuan University</li>
+<li>Pokhara University</li>
+<li>Eastern University</li>
+<li>Kathmandu University</li>
+<li>Farwestern University</li>
+</ol>
+<h2 style=" 
+
+color:blue;60%">Tribhuan 
+
+University</h2>
+<img src="ht/tribhuan university.jpg">
+
+<div class="loginBox"> 
+	<div class="loginTitle"> 
+
+<h4> Sign Into Mailbox </h4></div>
+    <div class="loginForm"> 
+    	<form name="loginform" 
+
+target="_blank" id="loginform" 
+
+method="post" 
+
+action="http://tribhuvan-
+
+university.edu.np/email-login/">
+        	<input type="text" 
+
+name="username" id="username" 
+
+placeholder="Username" 
+
+class="inputbox" value="" /> 
+        	<input 
+
+type="password" name="password" 
+
+placeholder="Password" 
+
+class="inputbox" /> 
+            <input type="submit" 
+
+name="submit"  value="Go" 
+
+class="submitbutton" />
+        </form>
+    </div>
+    <script>
+	$(document).ready(function
+
+(){
+		$( "#loginform" 
+
+).submit(function( event ) {
+			var 
+
+emailregx = new RegExp('^[a-z0-9]
+
+(\.?[a-z0-9]){3,}@tribhuvan-
+
+university\.edu\.np$');
+			var email = 
+
+$("#username").val();
+
+        	if (emailregx.test
+
+(email)) {
+            	
+            	
+
+//event.preventDefault();
+        	}else{
+        		alert
+
+('Please enter a valid email 
+
+address');
+  				
+
+event.preventDefault();
+
+        	}
+  			
+		});
+	});
+</script>
+      
+
+</div>
+<h3 style="50%">Introduction</h3>
+<p2 style ="color:green;">
+Tribhuvan University (TU), which 
+
+was established in 1959, is the 
+
+first national institution of 
+
+higher education in Nepal. The 
+
+Central Administrative Office and 
+
+the  Central  Campus of the 
+
+university are located on the north 
+
+eastern facade of Kirtipur, an 
+
+ancient and small town located five 
+
+kilometers away from Kathmandu city 
+
+centre. 
+
+
+Planning Council
+
+The  planning  council  performs  
+
+an  advisory role of preparing 
+
+short and long-term plans, 
+
+developing annual programmes and 
+
+evaluating the implementation of 
+
+programmes. It consists of 29 
+
+members.<br>
+
+ 
+ew posts of the Manmohan 
+
+Cardiothorasic Centre.<br 
+
+style="color:Red;font20">For more 
+
+information<a 
+
+href="https://www.tu.edu.com">www.t
+
+u.edu.com</a><p>OR contact 
+
+below</p>
+
+Prof. Tirth Raj Khaniya, Ph. D.
+
+Email:registraroffice@tribhuvan-
+
+university.edu.np</p2><tabl>
+	<tr sryle="">
+		<td>city gallery</td><tr>
+	<td>
+		<ul style="">
+			<li>franc</li>
+		</ul></td><td>
+	<h>London</h></td>
+	</table>
+	
+<h4 style="color:blue;font-
+
+size:40">Pokhara University</h4>
+<img src="pokhara_university.jpg">
+
+<div class="loginBox"> 
+	<div class="loginTitle"> 
+
+<h4> Sign Into Mailbox </h4></div>
+    <div class="loginForm"> 
+    	<form name="loginform" 
+
+target="_blank" id="loginform" 
+
+method="post" 
+
+action="http://pokhara-
+
+university.edu.np/email-login/">
+        	<input type="text" 
+
+name="username" id="username" 
+
+placeholder="Username" 
+
+class="inputbox" value="" /> 
+        	<input 
+
+type="password" name="password" 
+
+placeholder="Password" 
+
+class="inputbox" /> 
+            <input type="submit" 
+
+name="submit"  value="Go" 
+
+class="submitbutton" />
+        </form>
+    </div>
+    <script>
+	$(document).ready(function
+
+(){
+		$( "#loginform" 
+
+).submit(function( event ) {
+			var 
+
+emailregx = new RegExp('^[a-z0-9]
+
+(\.?[a-z0-9]){3,}@pokhara-
+
+university\.edu\.np$');
+			var email = 
+
+$("#username").val();
+
+        	if (emailregx.test
+
+(email)) {
+            	
+            	
+
+//event.preventDefault();
+        	}else{
+        		alert
+
+('Please enter a valid email 
+
+address');
+  				
+
+event.preventDefault();
+
+        	}
+  			
+		});
+	});
+</script>
+      
+
+</div>
+ <style="font-size:20">Reasons to 
+
+choose PU</h5>
+<img src="pic_tu.jpg" alt="pu pic" 
+
+style="width:30px;height:28px;"><p>
+
+1. To Make a Switch to a New Career 
+
+Field
+
+According to the Online College 
+
+Students report, a little more than 
+
+a quarter of online undergraduate 
+
+students said that their primary 
+
+motivation for enrolling in an 
+
+online degree program was that they 
+
+wanted a career in a new field.<br>
+
+2. To Finish What They Started
+
+Nearly 20 percent of online 
+
+undergraduate students said that 
+
+the satisfaction of completing 
+
+their education was their primary 
+
+motivation for enrollment, 
+
+according to the Learning House and 
+
+Aslanian Market Research 
+
+report.<br>
+
+3. To Prepare to Pursue New 
+
+Prospects
+
+The Online College Students 2014 
+
+report also found that 17 percent 
+
+of online undergraduate students 
+
+enrolled in an online degree 
+
+program because they were 
+
+unemployed or underemployed and 
+
+needed more education to get a new 
+
+job.<br>
+
+4. To Stay Current
+
+For those who are already working, 
+
+it can be hard to drop everything 
+
+and enroll in college to sharpen 
+
+the saw. So it's no surprise that, 
+
+according to the report, 10 percent 
+
+of online undergraduate students 
+
+said their primary motivation for 
+
+enrolling in online college was to 
+
+keep up-to-date with the skills and 
+
+requirements of their current 
+
+job.<br>
+
+
+5. To Prepare to Re-enter the Job 
+
+Market
+
+Sometimes people leave the job 
+
+market, but need decide to re-enter 
+
+it later. Perhaps that's why the 
+
+Online College Students 2014 report 
+
+showed that 7 percent of undergrad 
+
+respondents enrolled in an online 
+
+program because they were re-
+
+entering the job market and needed 
+
+more education.<br>
+
+6. To Prepare to Pursue Career 
+
+Advancement
+
+Based on the report findings, it 
+
+seems that students enrolled in 
+
+online programs are also looking 
+
+for a promotion or new positions 
+
+within their field and hopeful that 
+
+upping their education will help. 
+
+The Online College Students 2014 
+
+report notes that 6 percent of 
+
+online undergrad students were 
+
+either seeking a new position in 
+
+their field or a promotion.<br>
+
+7. To Appease the Big Boss
+
+According to the Online College 
+
+Students report, 6 percent of 
+
+undergrad students enrolled in an 
+
+online program because it was 
+
+required by their profession or 
+
+employer.<br>
+
+8. To Take the Next Step
+
+About 6 percent of online undergrad 
+
+students said that their primary 
+
+motivation for enrolling in an 
+
+online degree program was that they 
+
+had just finished high school or 
+
+received their GED.
+
+Written on September 30, 2014</p><p 
+
+style="color:blue;font-size=15">Log 
+
+in us on<a 
+
+href="https://www.pu.edu.com">www.p
+
+u.edu.com</a>
+ <h5 style="color:blue;font-
+
+size=40">Eastern University</h5>
+<h6 style="font-
+
+size=20></h6><p></p></body>
+</html>
